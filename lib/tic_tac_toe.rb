@@ -4,4 +4,4 @@ class TicTacToe
     @board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   end
   
-  win_combinations
+  WIN_COMBINATIONS = 
