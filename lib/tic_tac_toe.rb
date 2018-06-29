@@ -4,4 +4,4 @@ class TicTacToe
     @board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   end
   
-  def win_combinations
+  win_combinations
